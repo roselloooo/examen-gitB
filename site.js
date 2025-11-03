@@ -1,2 +1,2 @@
-var user = prompt("What is your name?"); 
-alert("Hello, " + userName + "! Welcome to the world of JavaScript.");
+var userName = prompt("Cuál es tu nombre?"); 
+alert("Hola, " + userName + "! Bienvenido al mundo de JavaScript.");
